@@ -1,4 +1,4 @@
-# Productividad-Herramientas-Tec.
+
 # Resumen Ejecutivo
 # Descripción
 La aplicación es una plataforma en línea para la aprobación de préstamos personales, que se enfoca en la facilidad y rapidez del proceso de solicitud, análisis y aprobación. La plataforma utiliza tecnologías de última generación para automatizar el proceso de aprobación de préstamos, lo que permite a los usuarios solicitar y obtener préstamos de manera rápida y sencilla.
