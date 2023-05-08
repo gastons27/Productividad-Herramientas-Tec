@@ -1,0 +1,10 @@
+# Requerimientos 
+Servidores de aplicación: se requiere al menos un servidor de aplicaciones para la ejecución de la aplicación. Se recomienda utilizar Apache Tomcat o similar.
+
+Servidores web: se requiere un servidor web para la publicación de la aplicación. Se recomienda utilizar Apache HTTP Server o similar.
+
+Bases de datos: se requiere al menos una base de datos para el almacenamiento de la información de los préstamos. Se recomienda utilizar MySQL o similar.
+
+Paquetes adicionales: se requiere el uso de paquetes adicionales para la gestión de la seguridad de la aplicación y la comunicación con otras aplicaciones. Se recomienda utilizar Spring Security y Spring Integration.
+
+Versión de Java: se requiere utilizar una versión de Java 8 o superior para la ejecución de la aplicación.
