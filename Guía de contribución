@@ -1,0 +1,19 @@
+Guía de contribución
+
+1. Clona el repositorio en tu máquina local utilizando el siguiente comando:
+git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+
+2. Crea un nuevo branch para realizar tus cambios utilizando el siguiente comando:
+git checkout -b nombre-del-branch
+
+3. Realiza tus cambios en el código, asegurándote de seguir las directrices de contribución y los requerimientos especificados en el archivo README.
+
+4. Una vez que hayas realizado tus cambios, crea un commit con un mensaje descriptivo de los cambios utilizando el siguiente comando:
+git commit -m "Mensaje descriptivo de los cambios"
+
+5. Envía tus cambios al repositorio remoto en GitHub utilizando el siguiente comando:
+git push origin nombre-del-branch
+
+6. Crea un Pull Request (PR) en el repositorio original en GitHub. Asegúrate de incluir una descripción clara y detallada de tus cambios, así como de cualquier problema que hayas resuelto. Tu PR será revisado por los mantenedores del repositorio.
+
+7. Si se solicitan cambios en tu PR, realiza los cambios necesarios en tu branch y vuelve a enviar los cambios al repositorio remoto en GitHub. Si se aprueba tu PR, se realizará el merge de tus cambios en el repositorio original.
