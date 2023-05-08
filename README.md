@@ -14,10 +14,17 @@ La arquitectura de la aplicación consta de un servidor web que aloja la platafo
 
 # Tabla de contenidos
 Introducción
+
 Problema identificado
+
 Solución
+
 Arquitectura
+
 Requisitos del sistema
+
 Instalación y configuración
+
 Uso de la plataforma
+
 Conclusiones
