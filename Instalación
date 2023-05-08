@@ -1,0 +1,11 @@
+# Instalación 
+
+Para instalar el ambiente de desarrollo y ejecutar pruebas manualmente, se deben seguir los siguientes pasos:
+
+Clonar el repositorio del proyecto desde GitHub a un directorio local.
+
+Importar el proyecto en el IDE de preferencia, como Eclipse o IntelliJ IDEA.
+
+Configurar las variables de entorno necesarias para la ejecución de la aplicación, como las credenciales de acceso a la base de datos y las llaves de API.
+
+Ejecutar las pruebas unitarias y de integración de forma manual desde el IDE, utilizando JUnit y Mockito.
